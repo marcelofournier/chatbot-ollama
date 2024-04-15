@@ -1,0 +1,3 @@
+modelo: llama2-uncensored
+host: localhost:11434
+

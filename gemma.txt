@@ -1,0 +1,3 @@
+modelo: gemma
+host: localhost:11434
+

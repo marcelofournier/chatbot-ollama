@@ -1,10 +1,10 @@
 clear
 echo "Preparando tudo...."
-#sudo apt update && sudo apt upgrade -y
-#sudo apt autoremove && sudo apt autoclean
-#sudo apt install python3 python3-pip
-#sudo pip3 install virtualenv
-#virtualenv --version
+sudo apt update && sudo apt upgrade -y
+sudo apt autoremove && sudo apt autoclean
+sudo apt install python3 python3-pip
+sudo pip3 install virtualenv
+virtualenv --version
 echo
 echo "Instalando as bibliotecas..."
 
